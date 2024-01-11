@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kimmmli
-- 👀 I’m interested in data science and statistics
-- 🌱 I’m currently a master's student @ Harvard Chan School of Public Health
-- 💞️ I’m looking to collaborate on projects applying AI and Data Science to real-world problems
+- 🌱 I’m currently a health data science master's student @ Harvard Chan School of Public Health
+- 💞️ I’m looking to work on projects applying AI and Data Science to real-world health problems
 - 📫 Please reach me by kimli@hsph.harvard.edu
